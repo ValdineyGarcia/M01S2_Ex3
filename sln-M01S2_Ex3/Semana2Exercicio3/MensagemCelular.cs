@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Semana1Exercicio3
+namespace Semana2Exercicio3
 {
     public class MensagemCelular
     { 
